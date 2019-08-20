@@ -9,11 +9,11 @@ https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/building.
 (3) Building C# Wrapper.<br>
 https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/building.md#c-wrapper
 <br><b>depthengine_2_0.dll</b> is required to build C# wrapper. Please download depthengine_2_0.dll via nuget and put it following directory.
-<br>C:\YOUR DIRECTORY\Azure-Kinect-Sensor-SDK\build\Win-x64-Release-Ninja\bin
+<br><i>C:\YOUR DIRECTORY\Azure-Kinect-Sensor-SDK\build\Win-x64-Release-Ninja\bin </i>
 
 (4) Installing dll files into Unity Project.<br>
 Find following directory and copy all files into <b>Plugins</b> folder of this Uity Smaple.<br> 
-C:\YOUR DIRECTORY\Azure-Kinect-Sensor-SDK\build\Win-x64-Release-Ninja\bin\Release\x64\Microsoft.Azure.Kinect.Sensor.Examples.WinForms
+<i>C:\YOUR DIRECTORY\Azure-Kinect-Sensor-SDK\build\Win-x64-Release-Ninja\bin\Release\x64\Microsoft.Azure.Kinect.Sensor.Examples.WinForms </i>
 
 (5) You can test following demo.<br>
 [![](https://img.youtube.com/vi/Nt0oMN5Ece0/0.jpg)](https://www.youtube.com/watch?v=Nt0oMN5Ece0)
