@@ -3,7 +3,7 @@
 (1) Download SDK from official repository.<br>
 https://github.com/microsoft/Azure-Kinect-Sensor-SDK/tree/develop/docs
 
-(2) Build Projects with Visual Studio by referring to the following guide.<br>
+(2) Building Projects with Visual Studio by referring to the following guide.<br>
 https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/building.md#building-using-visual-studio
 
 (3) Building C# Wrapper.<br>
