@@ -10,7 +10,7 @@ https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/building.
 https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/building.md#c-wrapper
 <br><b>depthengine_2_0.dll</b> is required to build C# wrapper. Please copy depthengine_2_0.dll from the directory which Azure Kinect SDK is installed.
 
-(4) Installing dll files into Unity Project.<br>
+(4) Install dll files into Unity Project.<br>
 Find following directory and copy all files into <b>Plugins</b> folder of this Uity Smaple.<br> 
 <i>C:\YOUR DIRECTORY\Azure-Kinect-Sensor-SDK\build\Win-x64-Release-Ninja\bin\Release\x64\Microsoft.Azure.Kinect.Sensor.Examples.WinForms </i>
 
