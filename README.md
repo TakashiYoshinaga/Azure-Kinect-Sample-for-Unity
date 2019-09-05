@@ -1,6 +1,6 @@
 # Azure-Kinect-Unity-Sample
 
-(1) Download SDK from official repository.<br>
+(1) Clone official SDK repository.<br>
 https://github.com/microsoft/Azure-Kinect-Sensor-SDK/tree/develop/docs
 
 (2) Build Projects with Visual Studio by referring to the following guide.<br>
