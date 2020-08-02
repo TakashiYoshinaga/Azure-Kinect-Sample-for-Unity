@@ -9,7 +9,11 @@ Find following directory and copy all files into <b>Plugins</b> folder of this U
 
 (3) You can test following demo.<br>
 ・PointCloud.unity<br>
-・TextureMesh.unity<br>
+・TextureMesh.unity<br><br>
 [![](https://img.youtube.com/vi/Nt0oMN5Ece0/0.jpg)](https://www.youtube.com/watch?v=Nt0oMN5Ece0)
+
+<br>
+Notice:<br>
+This sapmle was comfirmed to work with Unity2018.4.x
 
 
