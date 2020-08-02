@@ -8,8 +8,8 @@ Find following directory and copy all files into <b>Plugins</b> folder of this U
 <i>C:\Program Files\Azure Kinect SDK v1.4.1\sdk\windows-desktop\amd64\release\bin </i>
 
 (5) You can test following demo.<br>
-・PointCloud.unity
-・TextureMesh.unity
+・PointCloud.unity<br>
+・TextureMesh.unity<br>
 [![](https://img.youtube.com/vi/Nt0oMN5Ece0/0.jpg)](https://www.youtube.com/watch?v=Nt0oMN5Ece0)
 
 
