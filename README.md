@@ -14,6 +14,6 @@ Find following directory and copy all files into <b>Plugins</b> folder of this U
 
 <br>
 Notice:<br>
-This sapmle was comfirmed to work with Unity2018.4.x
+This sapmle was comfirmed to work with Unity2019.4.x
 
 
