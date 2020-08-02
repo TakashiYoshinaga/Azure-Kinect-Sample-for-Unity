@@ -61,7 +61,7 @@ public class MeshScript : MonoBehaviour
         //Access to coordinate transformation information
         transformation = kinect.GetCalibration().CreateTransformation();
 
-      
+
 
     }
 
@@ -91,7 +91,7 @@ public class MeshScript : MonoBehaviour
         {
             for (int x = 0; x < depthWidth; x++)
             {
-                uv[index] = new Vector2(((float)(x+0.5f) / (float)(depthWidth)), ((float)(y+0.5f) / ((float)(depthHeight))));
+                uv[index] = new Vector2(((float)(x + 0.5f) / (float)(depthWidth)), ((float)(y + 0.5f) / ((float)(depthHeight))));
                 normals[index] = new Vector3(0, -1, 0);
                 index++;
             }
@@ -129,7 +129,7 @@ public class MeshScript : MonoBehaviour
                 {
                     for (int x = 0; x < depthWidth; x++)
                     {
-                       
+
                         vertices[pointIndex].x = PointCloud[pointIndex].X * 0.001f;
                         vertices[pointIndex].y = -PointCloud[pointIndex].Y * 0.001f;
                         vertices[pointIndex].z = PointCloud[pointIndex].Z * 0.001f;
@@ -182,7 +182,7 @@ public class MeshScript : MonoBehaviour
 
                 texture.SetPixels32(colors);
                 texture.Apply();
-               
+
                 mesh.vertices = vertices;
 
                 mesh.triangles = indeces;
