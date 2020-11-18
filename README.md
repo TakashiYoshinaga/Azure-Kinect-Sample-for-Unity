@@ -1,6 +1,6 @@
 # Azure-Kinect-Unity-Sample
 
-(1) Install AzureKinedtSDK <b>v.1.4.1</b><br>
+(1) Install AzureKinedtSDK <b>v.1.4.1</b> .<br>
 https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md
 
 (2) Install dll files into Unity Project.<br>
